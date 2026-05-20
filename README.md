@@ -97,3 +97,5 @@ Added Switch / Dom Lean
 ---------End of Updates---------
 ---------New Updates---------
 Discord Bot Has Been Added, Can Assign them by going to the #Roles Section under important tab in Discord
+
+Vrchat World is Under Development
