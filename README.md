@@ -16,3 +16,82 @@ Added NSFW LGBTQ Section
 Added NSFW Vrchat Section 
 Added BDSM Test Section
 Further Updates to come 
+
+Roles Update
+Added NSFW Access Role
+---------Age Roles---------
+Added 18-21
+Added 22-25
+Added 26-29
+Added 30-35
+Added 35-40
+Added 41-44
+Added 45+
+---------Pronouns Roles---------
+Added She/Her
+Added He/Him
+Added They/Them
+Added Ask Pronouns
+---------Gender Roles---------
+Added Female
+Added Male
+Added Non Binary
+Added Trans MTF
+Added Trans FTM
+Added Agender
+---------Sexuality Roles---------
+Added Straight
+Added Gay
+Added Lesbian
+Added Bisexual
+Added Pansexual
+Added Demisexual
+Added Asexual
+---------DM Status Roles---------
+Added Open DMS
+Added Ask to DM
+Added Closed DMS
+---------Location Roles---------
+Added North America
+Added South America
+Added United Kingdom
+Added Europe
+Added Middle East
+Added Africa
+Added Asia
+Added Oceania
+---------Relationship Status Roles---------
+Added Single
+Added Taken
+Added Married
+Added Open Relationship
+Added Looking
+Added Not Looking
+Added Looking For Friends
+Added Looking For FWB
+Added Monogamous
+Added Polyamorous
+---------Dominate Roles---------
+Added Dom/Domme
+Added Master/Mistress
+Added Brat Tamer
+Added Caregiver
+Added Degrader
+Added Rigger
+Added Owner
+Added Sadist
+---------Submissive Roles---------
+Added Submissive
+Added Masochist
+Added Pet
+Added Degradee
+Added Rope Bunny
+Added Brat
+Added Slave
+Added Prey
+---------Misc Roles---------
+Added Vanilla
+Added Switch
+Added Switch / Sub Lean
+Added Switch / Dom Lean
+---------End of Updates---------
